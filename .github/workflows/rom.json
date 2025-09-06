@@ -1,0 +1,10 @@
+{
+  "rom": {
+    "name": "LineageOS 21 GSI",
+    "system": "https://your-link-here.img.gz",
+    "vendor": "https://github.com/antares-x1/Custom-Rom-Builder-For-Samsung-Galaxy-A03/releases/download/Vendor-Img/vendor.img.gz",
+    "boot": "",
+    "is_ab": true,
+    "add_dsu_metadata": false
+  }
+}
